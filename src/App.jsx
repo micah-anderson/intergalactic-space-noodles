@@ -1,11 +1,14 @@
 import './App.css'
-import Home from './components/Home'
+// import Home from './components/Home'
+import SideBar from './components/SideBar'
+
 
 const App = () => {
 
   return (
-    <div className='App'>
-      <Home />
+    <div className='App flex'>
+      <SideBar />
+
     </div>
   )
 }

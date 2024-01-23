@@ -1,9 +1,9 @@
 import React from 'react'
 
-const me = () => {
+const Me = () => {
   return (
-    <div>me</div>
-  )
+    <div className="text-red-600 text-9xl font-extrabold underline">me</div>
+  );
 }
 
-export default me
+export default Me

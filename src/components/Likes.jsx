@@ -2,7 +2,7 @@ import React from 'react'
 
 const Likes = () => {
   return (
-    <div>
+    <div className="text-red-600 text-9xl font-extrabold underline">
       <h1>Heres a list of random things I like and enjoy in life</h1>
       <ul>
         {/* Have buttons you click and they ruote to the thing */}
