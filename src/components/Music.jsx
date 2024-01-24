@@ -1,9 +1,9 @@
 import React from 'react'
 
-const music = () => {
+const Music = () => {
   return (
     <div className="text-red-600 text-9xl font-extrabold underline">music</div>
   );
 }
 
-export default music
+export default Music
