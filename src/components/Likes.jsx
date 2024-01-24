@@ -1,9 +1,18 @@
-import React from 'react'
+import React from "react";
+import { FaBeer } from "react-icons/fa";
 
 const Likes = () => {
   return (
-    <div className="text-red-600 text-9xl font-extrabold underline">
-      <h1>Heres a list of random things I like and enjoy in life</h1>
+    <div className="">
+      <h1 className="text-red-600 text-9xl font-extrabold underline">
+        Things I Like
+      </h1>
+      <h3>
+        Grab a cold
+        <FaBeer />
+        and lets get into it.
+      </h3>
+
       <ul>
         {/* Have buttons you click and they ruote to the thing */}
         <h2>What:</h2>
@@ -25,6 +34,6 @@ const Likes = () => {
       </ul>
     </div>
   );
-}
+};
 
-export default Likes
+export default Likes;

@@ -1,6 +1,7 @@
-import './App.css'
+// import Likes from './components/Likes'
 // import Home from './components/Home'
 import SideBar from './components/SideBar'
+import './App.css'
 
 
 const App = () => {
@@ -8,7 +9,6 @@ const App = () => {
   return (
     <div className='App flex'>
       <SideBar />
-
     </div>
   )
 }
