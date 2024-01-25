@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 // import { FaBeer } from "react-icons/fa";
 // import NavBar from "../components/NavBar";
 
@@ -6,6 +7,7 @@ const Likes = () => {
   return (
     <div className="text-red-600 text-9xl font-extrabold underline">
       Things i like 💙
+      <Footer />
     </div>
     // <div className="">
     //   <h1 className="text-red-600 text-9xl font-extrabold underline">

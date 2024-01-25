@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom';
+import Footer from '../components/Footer';
 
 const NotFound = () => {
   return (
@@ -10,7 +11,8 @@ const NotFound = () => {
       <NavLink to="/">
         <button>Back To Home</button>
       </NavLink>
-      <h5></h5>
+      <h5>Or stay as long as you want...</h5>
+      <Footer />
     </div>
   );
 }

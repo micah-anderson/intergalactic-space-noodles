@@ -10,6 +10,7 @@ const ContactMe = () => {
        or send a voice message. */}
       <button className="bg-cyan-500 p-6 mr-10 text-8xl">🔊</button>
       <button className="bg-cyan-500 p-6 text-8xl">📧</button>
+      <Footer />
     </div>
   );
 }
