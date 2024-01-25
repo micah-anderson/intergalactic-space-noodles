@@ -1,5 +1,5 @@
-import React from 'react'
-import Footer from '../components/Footer';
+import React from "react";
+import Footer from "./Footer";
 
 const ContactMe = () => {
   return (
@@ -14,6 +14,6 @@ const ContactMe = () => {
       <Footer />
     </div>
   );
-}
+};
 
-export default ContactMe
+export default ContactMe;

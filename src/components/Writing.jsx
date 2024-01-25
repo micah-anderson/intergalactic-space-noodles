@@ -1,6 +1,5 @@
-import React from 'react'
-import Footer from '../components/Footer';
-
+import React from "react";
+import Footer from "./Footer";
 
 const Writing = () => {
   return (
@@ -11,6 +10,6 @@ const Writing = () => {
       <Footer />
     </div>
   );
-}
+};
 
-export default Writing
+export default Writing;

@@ -1,5 +1,5 @@
-import React from 'react'
-import Footer from '../components/Footer';
+import React from "react";
+import Footer from "./Footer";
 
 const Music = () => {
   return (
@@ -10,6 +10,6 @@ const Music = () => {
       <Footer />
     </div>
   );
-}
+};
 
-export default Music
+export default Music;

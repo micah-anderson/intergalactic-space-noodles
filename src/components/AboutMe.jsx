@@ -1,5 +1,5 @@
-import React from 'react'
-import Footer from "../components/Footer";
+import React from "react";
+import Footer from "./Footer";
 
 const AboutMe = () => {
   return (
@@ -12,6 +12,6 @@ const AboutMe = () => {
       about themselves... just connect i dunno. Or just comment */}
     </div>
   );
-}
+};
 
 export default AboutMe;
