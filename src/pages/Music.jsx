@@ -3,8 +3,10 @@ import Footer from '../components/Footer';
 
 const Music = () => {
   return (
-    <div className="text-purple-500 text-9xl font-extrabold underline">
-      Music 🎵 !
+    <div>
+      <h1 className="text-purple-500 text-9xl font-extrabold underline">
+        Music 🎵 !
+      </h1>
       <Footer />
     </div>
   );

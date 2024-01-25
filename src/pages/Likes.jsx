@@ -5,8 +5,10 @@ import Footer from "../components/Footer";
 
 const Likes = () => {
   return (
-    <div className="text-red-600 text-9xl font-extrabold underline">
+    <div>
+      <h1 className="text-red-600 text-9xl font-extrabold underline">
       Things i like 💙
+      </h1>
       <Footer />
     </div>
     // <div className="">
