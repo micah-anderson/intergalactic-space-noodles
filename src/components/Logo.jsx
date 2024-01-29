@@ -14,6 +14,7 @@ const Logo = () => {
   );
 };
 
+// 🍔 Nav & Logic
 const Logo4Burger = () => {
   return (
     <div className='hover:m-0'>
