@@ -63,7 +63,7 @@ const Writing = () => {
               always be mindful.
             </p>
             <p className='mb-4'>
-              <strong>Stargaze more often:</strong> Like that time you saw a fox and a
+              <strong>Stargaze more often:</strong> One time I saw a fox and a
               shooting star in the same 20 seconds.
             </p>
           </div>

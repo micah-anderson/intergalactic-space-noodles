@@ -19,7 +19,6 @@ const App = () => {
     <div className="App w-full overflow-hidden">
       <NavBar />
       <Routes>
-        {/* Make Ramen when you see this 🍜 */}
         <Route index element={<LandingPage />} />
         <Route path="about" element={<About />} />
         <Route path="music" element={<Music />} />
