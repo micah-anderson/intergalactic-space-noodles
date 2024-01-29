@@ -46,7 +46,7 @@ const PreviewCards = () => {
             <h2 className='text-3xl font-bold text-center py-6'>{card.title}</h2>
             <div className='text-center font-medium px-6 py-4'>
               <p className='text-gray-600'>
-                Explore exclusive {card.title.toLowerCase()} content here.
+                Explore my {card.title.toLowerCase()}.
               </p>
             </div>
             <button
