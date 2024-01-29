@@ -12,13 +12,15 @@
 
 * {
   scroll-behavior: smooth;
+
 }
 
 body {
   font-family: 'Poppins', 'JetBrains Mono', monospace;
 }
 
-.landing-page {
-    @apply bg-micahDarkGrey;
-    @apply text-micahVibrantPink;
-}
+
+  /* .landing-page {
+      @apply bg-micahDarkGrey;
+      @apply text-micahVibrantPink;
+  } */
